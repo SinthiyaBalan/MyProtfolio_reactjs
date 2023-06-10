@@ -2,7 +2,13 @@ import React from 'react'
 
 function Nav() {
   return (
-    <div>Nav</div>
+    <div className='nav'>
+        <ul className='nav-links'>
+            <li>Home</li>
+            <li>My Work</li>
+            <li>Contact</li>
+        </ul>
+    </div>
   )
 }
 

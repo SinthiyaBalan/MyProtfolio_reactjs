@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "E-commerce",
+        "stack": ["React", "React Hooks", "Git/GitHub", "Netlify", "Axios", "OpenWeatherMapAPI"],
+        "type": "Web App",
+        "pics": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1115&q=80",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam commodo bibendum gravida. Nulla convallis sed felis at pharetra. Proin bibendum vitae arcu id cursus. Nunc ultrices massa nec faucibus aliquam. Sed sit amet nisi dolor. Morbi a porttitor diam. Aliquam augue mi, aliquet nec mauris vel,",
+        "link": "https://unsplash.com/"
+
+    },
+    {
+      "id": 2,
+      "name": "Song Finder",
+      "stack": [
+        "React",
+        "React Hooks",
+        "Git/GitHub",
+        "Netlify",
+        "Axios",
+        "SongApi",
+        "JSON"
+      ],
+      "type": "Web/phone App",
+      "pics": "https://images.unsplash.com/photo-1558655146-364adaf1fcc9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam commodo bibendum gravida. Nulla convallis sed felis at pharetra. Proin bibendum vitae arcu id cursus. Nunc ultrices massa nec faucibus aliquam. Sed sit amet nisi dolor. Morbi a porttitor diam. Aliquam augue mi, aliquet nec mauris vel,",
+      "link": "https://unsplash.com/"
+    },
+    {
+      "id": 3,
+      "name": "To-do App",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JS",
+        "DOM",
+        "Git/GitHub",
+        "Netlify"
+      ],
+      "type": "Web App",
+      "pics": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1115&q=80",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam commodo bibendum gravida. Nulla convallis sed felis at pharetra. Proin bibendum vitae arcu id cursus. Nunc ultrices massa nec faucibus aliquam. Sed sit amet nisi dolor. Morbi a porttitor diam. Aliquam augue mi, aliquet nec mauris vel,",
+      "link": "https://unsplash.com/"
+    },
+    {
+      "id": 4,
+      "name": "Budget App",
+      "stack": [
+        "React",
+        "React Hooks",
+        "Git/GitHub",
+        "Netlify",
+        "LocalStrorage"
+      ],
+      "type": "Web App",
+      "pics": "https://images.unsplash.com/photo-1652422485224-102f6784c149?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam commodo bibendum gravida. Nulla convallis sed felis at pharetra. Proin bibendum vitae arcu id cursus. Nunc ultrices massa nec faucibus aliquam. Sed sit amet nisi dolor. Morbi a porttitor diam. Aliquam augue mi, aliquet nec mauris vel,",
+      "link": "https://unsplash.com/"
+    },
+    {
+      "id": 5,
+      "name": "Recipe App",
+      "stack": [
+        "React",
+        "React Hooks",
+        "Git/GitHub",
+        "Netlify"
+      ],
+      "type": "Web App",
+      "pics": "https://images.unsplash.com/photo-1504387828636-abeb50778c0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam commodo bibendum gravida. Nulla convallis sed felis at pharetra. Proin bibendum vitae arcu id cursus. Nunc ultrices massa nec faucibus aliquam. Sed sit amet nisi dolor. Morbi a porttitor diam. Aliquam augue mi, aliquet nec mauris vel,",
+      "link": "https://unsplash.com/"
+    }
+]
