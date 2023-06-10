@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "E-commerce",
+        "name": "Weather App",
         "stack": ["React", "React Hooks", "Git/GitHub", "Netlify", "Axios", "OpenWeatherMapAPI"],
         "type": "Web App",
         "pics": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1115&q=80",
@@ -11,14 +11,12 @@
     },
     {
       "id": 2,
-      "name": "Song Finder",
+      "name": "Travel Blog",
       "stack": [
         "React",
         "React Hooks",
         "Git/GitHub",
         "Netlify",
-        "Axios",
-        "SongApi",
         "JSON"
       ],
       "type": "Web/phone App",
@@ -28,7 +26,7 @@
     },
     {
       "id": 3,
-      "name": "To-do App",
+      "name": "Landing Page",
       "stack": [
         "HTML",
         "CSS",

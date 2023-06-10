@@ -48,4 +48,31 @@
   margin-top: 10px;
 }
 
+.projects-section{
+
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+.card{
+
+  height: 400px;
+  width: 300px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.card img{
+  height: 50%;
+  width: 100%;
+  object-position: center;
+  object-fit: cover;
+}
+
+
 
