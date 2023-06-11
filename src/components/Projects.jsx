@@ -11,11 +11,13 @@ function Projects({projects ,setSelectedproject }) {
         
     }
   return (
+    
     <div className='projects-section grow'>
+        
         {projects.map( i => <div className='card' onClick={() => clickHandler(i)}>
             <img src={i.pics} alt="" />
             <h2>{i.name}</h2>
-            <h3>Stack list :</h3>
+            <h4>Stack list :</h4>
             <ul>
                 {i.stack.map(j =><li>{j}</li> )}
             </ul>
@@ -24,6 +26,8 @@ function Projects({projects ,setSelectedproject }) {
         </div>)}      
        
     </div>
+    
+    
   )
 }
 

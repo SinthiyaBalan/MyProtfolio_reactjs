@@ -8,6 +8,7 @@ import {Routes , Route} from 'react-router-dom'
 import Projects from './components/Projects'
 import data from './data/projects.json'
 import Project from './components/Project'
+import Contact from './Pages/Contact'
 
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
       <Route path='/' element = {<MainSection />}/>
         <Route path='/projects' element = {<Projects projects = {projects} setSelectedproject = {setSelectedProject}/>}/>
         <Route path='/project' element = {<Project  selectedProject = {selectedProject} />}/>
+        <Route path='/contact' element = {<Contact />}/>
       </Routes>
 
       <Footer />
