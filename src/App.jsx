@@ -26,6 +26,7 @@ function App() {
         <Route path='/projects' element = {<Projects projects = {projects} setSelectedproject = {setSelectedProject}/>}/>
         <Route path='/project' element = {<Project  selectedProject = {selectedProject} />}/>
         <Route path='/contact' element = {<Contact />}/>
+        
       </Routes>
 
       <Footer />

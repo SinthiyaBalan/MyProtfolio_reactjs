@@ -1,5 +1,6 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
+import pdf from '../assets/Sinthiya_Balasubramaniam_Resume.pdf'
 
 function Nav() {
   return (
@@ -15,7 +16,8 @@ function Nav() {
               <Link to = "/contact">Contact</Link>
             </li>
             <li>
-              <Link to = "/myresume">My Resume</Link>
+            <a href = {pdf} target = "_blank">My Resume</a>
+              {/* <Link to = {pdf}>My Resume</Link> */}
             </li>
         </ul>
         

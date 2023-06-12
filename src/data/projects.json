@@ -2,9 +2,9 @@
     {
         "id": 1,
         "name": "Weather App",
-        "stack": ["React", "React Hooks", "Git/GitHub", "Netlify", "Axios", "OpenWeatherMapAPI"],
+        "stack": ["React", "Git/GitHub", "Netlify", "Axios", "OpenWeatherMapAPI"],
         "type": "Web App",
-        "pics": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1115&q=80",
+        "pics": "src/assets/images/MovieService.png",
         "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam commodo bibendum gravida. ",
         "link": "https://unsplash.com/"
 
@@ -16,17 +16,17 @@
         "React",
         "React Hooks",
         "Git/GitHub",
-        "Netlify",
-        "JSON"
+        "Netlify"
+       
       ],
       "type": "Web/phone App",
-      "pics": "https://images.unsplash.com/photo-1558655146-364adaf1fcc9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=764&q=80",
+      "pics": "src/assets/images/travelblog.png",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam commodo bibendum gravida. Nulla convallis sed felis at pharetra. Proin bibendum vitae arcu id cursus. Nunc ultrices massa nec faucibus aliquam. Sed sit amet nisi dolor. Morbi a porttitor diam. Aliquam augue mi, aliquet nec mauris vel,",
-      "link": "https://unsplash.com/"
+      "link": "https://recipe-page-sinthiya.netlify.app"
     },
     {
       "id": 3,
-      "name": "Landing Page",
+      "name": "On Demand Movies",
       "stack": [
         "HTML",
         "CSS",
@@ -36,9 +36,9 @@
         "Netlify"
       ],
       "type": "Web App",
-      "pics": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1115&q=80",
+      "pics": "src/assets/images/MovieService.png",
       "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam commodo bibendum gravida. Nulla convallis sed felis at pharetra. Proin bibendum vitae arcu id cursus. Nunc ultrices massa nec faucibus aliquam. Sed sit amet nisi dolor. Morbi a porttitor diam. Aliquam augue mi, aliquet nec mauris vel,",
-      "link": "https://unsplash.com/"
+      "link": "https://prisma-sinthiya.netlify.app"
     },
     {
       "id": 4,
@@ -52,21 +52,20 @@
       ],
       "type": "Web App",
       "pics": "https://images.unsplash.com/photo-1652422485224-102f6784c149?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam commodo bibendum gravida. Nulla convallis sed felis at pharetra. Proin bibendum vitae arcu id cursus. Nunc ultrices massa nec faucibus aliquam. Sed sit amet nisi dolor. Morbi a porttitor diam. Aliquam augue mi, aliquet nec mauris vel,",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ",
       "link": "https://unsplash.com/"
     },
     {
       "id": 5,
-      "name": "Recipe App",
+      "name": "Recipe Page",
       "stack": [
         "React",
-        "React Hooks",
         "Git/GitHub",
         "Netlify"
       ],
       "type": "Web App",
-      "pics": "https://images.unsplash.com/photo-1504387828636-abeb50778c0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80",
-      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam commodo bibendum gravida. Nulla convallis sed felis at pharetra. Proin bibendum vitae arcu id cursus. Nunc ultrices massa nec faucibus aliquam. Sed sit amet nisi dolor. Morbi a porttitor diam. Aliquam augue mi, aliquet nec mauris vel,",
+      "pics": "src/assets/images/recipePage.png",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam commodo bibendum gravida. ",
       "link": "https://unsplash.com/"
     }
 ]
